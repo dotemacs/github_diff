@@ -9,6 +9,7 @@
               "https://github.com/*/commit/*",
               "https://github.com/*/*/compare/*...*"
           ],
+          "run_at": "document_start",
           "js": ["script.js"]
       }
   ]
